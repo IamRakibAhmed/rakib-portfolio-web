@@ -10,7 +10,7 @@ import Skills from './pages/Skills';
 import Publications from './pages/Publications';
 import Achievements from './pages/Achievements';
 import Contact from './pages/Contact';
-import GlobalStyles from './styles/GlobalStyles';
+import GlobalStyles from './components/GlobalStyles';
 import Loader from './components/Loader';
 import Education from "./pages/Education";
 

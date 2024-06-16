@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import { motion, AnimatePresence } from 'framer-motion';
 import { FaChevronRight } from 'react-icons/fa';
 import { IoIosArrowForward } from 'react-icons/io';
-import { animationConfig } from "../styles/animations";
+import { animationConfig } from "../components/animations";
 import { useMediaQuery } from 'react-responsive';
 
 const experiences = [

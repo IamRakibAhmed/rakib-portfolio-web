@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { motion } from 'framer-motion';
 import profilePhoto from '../assets/profile-photo.JPG';
 import { FaLinkedin, FaGithub, FaEnvelope } from 'react-icons/fa';
-import { typing, blink, wave } from '../styles/animations';
+import { typing, blink, wave } from '../components/animations';
 
 const Home = () => {
     return (

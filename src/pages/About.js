@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import Section from '../components/Section';
 import styled from 'styled-components';
 import aboutPhoto from '../assets/about-photo.jpeg';
-import { animationConfig, textAnimationConfig } from "../styles/animations";
+import { animationConfig, textAnimationConfig } from "../components/animations";
 import {IoIosArrowForward} from "react-icons/io";
 
 const About = () => {
